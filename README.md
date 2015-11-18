@@ -1,1 +1,0 @@
-# nutch_solr
